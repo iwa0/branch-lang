@@ -1,0 +1,6 @@
+int a = 0;
+bool b = ((a<1) and (!(a=3)));
+bool c = (b or (a=42));
+if (b or true) {
+    a = 4242;
+}
